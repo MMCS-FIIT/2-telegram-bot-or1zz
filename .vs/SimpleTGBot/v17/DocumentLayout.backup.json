@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oriz\\Documents\\GitHub\\2-telegram-bot-or1zz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\users\\oriz\\documents\\github\\2-telegram-bot-or1zz\\simpletgbot\\telegrambot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\telegrambot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|c:\\users\\oriz\\documents\\github\\2-telegram-bot-or1zz\\simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA186C8-2B12-4779-8691-9914B54DD319}|SimpleTGBot\\SimpleTGBot.csproj|solutionrelative:simpletgbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelegramBot.cs",
+              "DocumentMoniker": "C:\\Users\\oriz\\Documents\\GitHub\\2-telegram-bot-or1zz\\SimpleTGBot\\TelegramBot.cs",
+              "RelativeDocumentMoniker": "SimpleTGBot\\TelegramBot.cs",
+              "ToolTip": "C:\\Users\\oriz\\Documents\\GitHub\\2-telegram-bot-or1zz\\SimpleTGBot\\TelegramBot.cs",
+              "RelativeToolTip": "SimpleTGBot\\TelegramBot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:33:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oriz\\Documents\\GitHub\\2-telegram-bot-or1zz\\SimpleTGBot\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTGBot\\Program.cs",
+              "ToolTip": "C:\\Users\\oriz\\Documents\\GitHub\\2-telegram-bot-or1zz\\SimpleTGBot\\Program.cs",
+              "RelativeToolTip": "SimpleTGBot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:33:19.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
